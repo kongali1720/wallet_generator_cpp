@@ -26,6 +26,21 @@ g++ main.cpp -o walletgen -lssl -lcrypto
 
 ---
 
+🧪 Cara Menjalankan
+
+    Pastikan sudah install dependensi:
+
+sudo apt install libssl-dev
+
+Kompilasi:
+
+g++ main.cpp -o walletgen -lssl -lcrypto
+
+Jalankan:
+
+./walletgen
+
+---
 ## ☕ Dukung aku agar tetap waras menulis script tengah malam...
 
 👉 [Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99) 👈  
